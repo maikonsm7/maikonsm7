@@ -1,0 +1,3 @@
+- 👋 Olá, sou Maikon!
+- 🧑🏽‍💻 Bacharel em Sistemas de Informação
+- 👀 Interesse na área de desenvolvimento e otimização de software
