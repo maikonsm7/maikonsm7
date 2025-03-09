@@ -1,6 +1,6 @@
 # Olá, sou o Maikon!
 🧑🏽‍💻 Bacharel em Sistemas de Informação <br>
-👀 Interesse na área de desenvolvimento e otimização de software
+👀 Foco em desenvolvimento e otimização de software | BackEnd Developer
 <br><br>
 <div style="display: flex;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp; &nbsp; 
