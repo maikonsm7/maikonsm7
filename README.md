@@ -1,6 +1,6 @@
 # Olá, sou o Maikon!
-🧑🏽‍💻 Bacharel em Sistemas de Informação <br>
-👀 Foco em desenvolvimento e otimização de software | BackEnd Developer
+🧑🏽‍💻 Bacharel em Sistemas de Informação | Universidade Federal do Amazonas <br>
+👀 BackEnd Developer
 <br><br>
 <div style="display: flex;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp; &nbsp; 
