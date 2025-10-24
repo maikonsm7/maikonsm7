@@ -2,7 +2,7 @@
 🧑🏽‍💻 Bacharel em Sistemas de Informação | Universidade Federal do Amazonas <br>
 👀 BackEnd Developer
 <br><br>
-
+Skills:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,js,typescript,git,docker,mysql,mongodb,postgres)](https://skillicons.dev)
 
 #
