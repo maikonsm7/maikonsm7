@@ -1,6 +1,6 @@
-# Olá, sou o Maikon!
-🧑🏽‍💻 Bacharel em Sistemas de Informação | Universidade Federal do Amazonas <br>
-👀 BackEnd Developer
+# Maikon Monteiro
+👨🏽‍🎓 Bacharel em Sistemas de Informação | Universidade Federal do Amazonas <br>
+🧑🏽‍💻 BackEnd Developer
 <br><br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,git,docker,nodejs,mysql,mongodb,postgres,react)](https://skillicons.dev)
