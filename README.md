@@ -1,9 +1,9 @@
 # Olá! Sou o Maikon Monteiro
 👨🏽‍🎓 Bacharel em Sistemas de Informação | Universidade Federal do Amazonas <br>
-🧑🏽‍💻 BackEnd Developer
-<br><br>
+🧑🏽‍💻 Desenvolvedor Backend
+<br>
 
-Bacharel em Sistemas de Informação, apaixonado por desenvolvimento de sistemas e pelo mundo da tecnologia. Busco constantemente aprender e acompanhar as inovações do setor, com foco na área de desenvolvimento e otimização de software, Desenvolvedor Backend NodeJS. Acredito na importância da criatividade, colaboração e entrega de soluções que realmente agreguem valor.
+Apaixonado por tecnologia! Estou sempre em busca de novos conhecimentos e inovações na área de desenvolvimento e otimização de software. Acredito na importância de construir soluções criativas e de valor, através da colaboração e do aprendizado contínuo.
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,git,docker,nodejs,mysql,mongodb,postgres,react)](https://skillicons.dev)
