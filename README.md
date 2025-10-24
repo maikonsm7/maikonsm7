@@ -3,7 +3,7 @@
 👀 BackEnd Developer
 <br><br>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,typescript,git,docker,mysql,mongodb,postgres,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,git,docker,nodejs,mysql,mongodb,postgres,react)](https://skillicons.dev)
 
 #
 <div>
