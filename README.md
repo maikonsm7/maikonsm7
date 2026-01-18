@@ -1,6 +1,6 @@
 # Olá! Sou o Maikon Monteiro
 👨🏽‍🎓 Bacharel em Sistemas de Informação | Universidade Federal do Amazonas <br>
-🧑🏽‍💻 Desenvolvedor Backend
+🧑🏽‍💻 Desenvolvedor FullStack
 <br>
 
 Apaixonado por tecnologia! Estou sempre em busca de novos conhecimentos e inovações na área de desenvolvimento e otimização de software. Acredito na importância de construir soluções criativas e de valor, através da colaboração e do aprendizado contínuo.
